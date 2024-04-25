@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"@types/node": "^20.12.7"
+	},
+	"dependencies": {
+		"@mui/x-data-grid": "^7.2.0"
+	}
+}
