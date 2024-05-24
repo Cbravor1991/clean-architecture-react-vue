@@ -12,6 +12,12 @@ Este proyecto es una plantilla vacía diseñada para mostrar el uso de la arquit
 
 - **Redux Toolkit**: Una biblioteca oficial recomendada para la gestión del estado en aplicaciones React que utilizan Redux. Redux Toolkit simplifica la configuración de Redux al proporcionar funciones utilitarias y patrones de diseño predefinidos para la definición de acciones, reducers y store, lo que facilita la escritura de código más limpio y conciso.
 
+- **React-Redux**: La biblioteca oficial de enlaces de React para Redux. Permite que los componentes de React se suscriban a la tienda de Redux y se despachen acciones, proporcionando una forma eficaz de gestionar el estado de la aplicación.
+
+- **RxJS**: Una biblioteca para la programación reactiva usando Observables, que facilita la composición de secuencias de eventos asíncronos. Es particularmente útil para manejar eventos en tiempo real y flujos de datos asincrónicos en aplicaciones JavaScript.
+
+- **@mui/icons-material**: Un conjunto de iconos de Material Design empaquetados como componentes de React para ser utilizados con Material-UI. Facilita la incorporación de iconos en las interfaces de usuario diseñadas con Material-UI.
+
 ### Estructura del Proyecto
 
 El proyecto sigue una estructura organizada que refleja los principios de la arquitectura limpia. Las carpetas están distribuidas de acuerdo a sus responsabilidades, permitiendo una mejor modularidad y comprensión del código.

@@ -3,6 +3,9 @@
 		"@types/node": "^20.12.7"
 	},
 	"dependencies": {
-		"@mui/x-data-grid": "^7.2.0"
+		"@mui/icons-material": "^5.15.18",
+		"@mui/x-data-grid": "^7.2.0",
+		"react-redux": "^9.1.2",
+		"rxjs": "^7.8.1"
 	}
 }
